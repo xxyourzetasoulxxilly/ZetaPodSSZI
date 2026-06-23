@@ -280,7 +280,7 @@ local old = PlayerGui:FindFirstChild("MM2SpawnerMolly")
 if old then old:Destroy() end
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name           = "MM2SpawnerMolly"
+ScreenGui.Name           = "ZetaScripts(last4zeta on tt)"
 ScreenGui.ResetOnSpawn   = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.Parent         = PlayerGui
